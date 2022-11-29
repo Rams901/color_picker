@@ -1,0 +1,2 @@
+#!/bin/bash
+uvicorn recommender_system.api:app
