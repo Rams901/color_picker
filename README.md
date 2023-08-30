@@ -17,12 +17,18 @@ curl -X POST -H "Content-Type: application/json" --data "{\"url\": \"https://dl5
 
 # What is this?
 Color Picker is an AI feature for a pet adoption website that helps in identifying the pet colors exact name by:
+
 1 - Removing Background from the Image
+
 2 - Keep Focus to the pet
+
 3 - Extract main dominant colors with percentages
+
 4 - Use Machine Learning Algorithms to classify the exact color name
 
+
 Calic Cat
+
 ![preview](https://github.com/hazem-abdennadher/Guacamole-official/assets/47258547/791017c3-e49e-45a4-8c93-2e2ddf1ed89a)
 
 
