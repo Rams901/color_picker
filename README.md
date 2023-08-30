@@ -27,7 +27,7 @@ Color Picker is an AI feature for a pet adoption website that helps in identifyi
 4 - Use Machine Learning Algorithms to classify the exact color name
 
 
-Calic Cat
+## Calic Cat
 
 ![preview](https://github.com/hazem-abdennadher/Guacamole-official/assets/47258547/791017c3-e49e-45a4-8c93-2e2ddf1ed89a)
 
